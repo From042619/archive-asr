@@ -1,0 +1,29 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Kaldi-ASR Progress
+tagline:             published as a showcase of our project providing issues tracking.
+url:                 http://bin4writing.github.io
+baseurl:             /kaldi-asr
+analytics_id:
+
+# Owner/author information
+owner:
+  name:           Zhang Yueyou
+  avatar:         avatar.png
+  bio:            "Mr. Nobody"
+  email:          is.zhang.yueyou@gmail.com
+
+
+# Custom vars
+github:
+  repo:              
+
+# Pagination
+paginate: 5
+paginate_path: "blog/page:num"
+
+# Gems
+plugins:
+  - jekyll-paginate
